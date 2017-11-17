@@ -1,0 +1,25 @@
+{
+  "name": "train",
+  "version": "1.0.0",
+  "description": "train for loy ngo",
+  "main": "1variable.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuenook/KoyNgo.git"
+  },
+  "keywords": [
+    "train",
+    "koy",
+    "ngo"
+  ],
+  "author": "nookie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuenook/KoyNgo/issues"
+  },
+  "homepage": "https://github.com/nuenook/KoyNgo#readme",
+  "dependencies": {}
+}
