@@ -1,7 +1,7 @@
 # KoyNgo
 
 Training the javaScript
-### Chapter 1 EZ JS
+## Chapter 1 EZ JS
 
 **Start by prepares software tools.**
 * download [Node.js](https://nodejs.org/en/)
@@ -10,6 +10,6 @@ Training the javaScript
 
 **clone this project to wrote assignment.**
 
-### Chapter 2 Node.js 101 
+## Chapter 2 Node.js 101 
 
 (comming)
