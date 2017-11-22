@@ -17,6 +17,7 @@ Training the javaScript
  - Node Module -- Core, Local, Third Party Modules
  - Node Package Manager (NPM)
   -- Global, Local Installation
+ - Events
 - Streaming File -- CRUD File, Global Variable
 - WEB Module
 
