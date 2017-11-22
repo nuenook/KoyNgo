@@ -20,6 +20,9 @@ Training the javaScript
 - Streaming File -- CRUD File, Global Variable
 - WEB Module
 
+### ** assignment ** geting file to show on website 
+- reading home file to show by /home route
+- reading profile file to show name and profile with route /profile/name
 ## Chapter 3 Frameworks for Node.js
 
 (comming)
