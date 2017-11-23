@@ -1,6 +1,10 @@
 # KoyNgo
 
 Training the javaScript
+* FirstNode -> Chapter1 and Chapter2
+* Backend -> Chapter3 and Chapter4
+* Frontend -> (no detail)
+
 ## Chapter 1 EZ JS
 
 **Start by prepares software tools.**
